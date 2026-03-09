@@ -11,3 +11,22 @@ Install dependencies
 ```bash
 npm install
 ```
+
+input your cookie
+
+connect.sid=
+
+open developer tools (f12)
+
+input your Device ID
+go to your profile 
+DTH-
+
+```bash
+python bot.py
+```
+
+support me 
+https://t.me/PETANIAIRDROPPS
+
+https://x.com/grandboyyyy11?s=21
