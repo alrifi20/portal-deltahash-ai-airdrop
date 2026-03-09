@@ -6,5 +6,3 @@ You don’t always have to wait using the browser. It’s very easy—you can us
 
 
 Installation
-
-pip install requests
