@@ -9,7 +9,7 @@ Installation
 
 Install dependencies
 ```bash
-npm install
+pip install requests
 ```
 
 input your cookie
